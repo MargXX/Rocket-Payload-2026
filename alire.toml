@@ -1,0 +1,11 @@
+name = "rocket_payload_2026"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Margeaux Corrigan"]
+maintainers = ["Margeaux Corrigan <margeauxcorrigan@gmail.com>"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["rocket_payload_2026"]
